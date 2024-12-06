@@ -1,10 +1,17 @@
 langchain
 ipykernel
 python-dotenv
-langchain_community
+#langchain_community
+langchain-community # For Ollama
 pypdf
 beautifulsoup4
 arxiv
 pymupdf
 wikipedia
 langchain-text-splitters
+lxml
+langchain-openai
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
